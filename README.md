@@ -9,6 +9,12 @@ A receiving copilot for grocery and supercenter chains: it predicts when small D
 ### Team Members
 V V S S N Padmaji Saladi (2025mb26046) - Acted as a technical product manager with hands-on
 
+**Timestamps:**
+Email sent for topic approval on 3-Nov-2026
+Assignment uploaded to GitHub on 6-Nov-2026
+Updated the files as per the feedback and uploaded to GitHub on 24-Nov-2026
+Reason for the delay: Lost the job and in search of a job, so diverted (sent an email as well)
+
 ## Files
 
 | File | What it is |
